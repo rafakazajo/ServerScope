@@ -1,0 +1,7 @@
+.cache/
+.local/
+.ssh/
+.bash*
+.profile
+serverscope_project.zip
+monitor.log
